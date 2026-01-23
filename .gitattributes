@@ -1,1 +1,4 @@
 data/ecg_timeseries.csv filter=lfs diff=lfs merge=lfs -text
+data/cardio_base.csv filter=lfs diff=lfs merge=lfs -text
+data/heart_processed.csv filter=lfs diff=lfs merge=lfs -text
+data/cardiac_failure_processed.csv filter=lfs diff=lfs merge=lfs -text
